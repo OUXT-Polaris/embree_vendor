@@ -48,6 +48,6 @@ endmacro()
 build_embree()
 
 ament_export_include_directories(include)
-ament_export_libraries(embree3)
+ament_export_libraries(embree4)
 
 ament_package()
